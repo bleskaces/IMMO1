@@ -1,0 +1,11 @@
+C:\Users\xisao\Downloads\IM1-master\IM1-master\Flight\bin\Debug\Flight.exe.config
+C:\Users\xisao\Downloads\IM1-master\IM1-master\Flight\bin\Debug\Flight.exe
+C:\Users\xisao\Downloads\IM1-master\IM1-master\Flight\bin\Debug\Flight.pdb
+C:\Users\xisao\Downloads\IM1-master\IM1-master\Flight\obj\Debug\Flight.csproj.AssemblyReference.cache
+C:\Users\xisao\Downloads\IM1-master\IM1-master\Flight\obj\Debug\Flight.csproj.SuggestedBindingRedirects.cache
+C:\Users\xisao\Downloads\IM1-master\IM1-master\Flight\obj\Debug\Flight.Properties.Resources.resources
+C:\Users\xisao\Downloads\IM1-master\IM1-master\Flight\obj\Debug\Flight.csproj.GenerateResource.cache
+C:\Users\xisao\Downloads\IM1-master\IM1-master\Flight\obj\Debug\Flight.csproj.CoreCompileInputs.cache
+C:\Users\xisao\Downloads\IM1-master\IM1-master\Flight\obj\Debug\Flight.exe
+C:\Users\xisao\Downloads\IM1-master\IM1-master\Flight\obj\Debug\Flight.pdb
+C:\Users\xisao\Downloads\IM1-master\IM1-master\Flight\obj\Debug\Snaryad.Form1.resources
